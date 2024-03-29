@@ -14,7 +14,7 @@ This Python script forwards messages from specified channels to a designated gro
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/telegram-message-forwarder.git
+   git clone https://github.com/gaurav-321/telegram-message-forwarder.git
    cd telegram-message-forwarder
 
 2. Install the required Python packages:
