@@ -1,4 +1,4 @@
-# 📌 telegram_message_forwarder
+# 📌 Telegram Message Forwarder
 
 Telegram Message Forwarder is a Python script designed to automate the forwarding of messages from specified Telegram channels to a designated group chat. It simplifies the process of keeping important updates organized and accessible.
 
